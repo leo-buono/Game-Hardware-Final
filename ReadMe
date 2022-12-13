@@ -5,3 +5,11 @@ https://www.tinkercad.com/things/bXoZar2ehwB-fantabulous-kasi/editel?sharecode=a
 Video
 https://youtu.be/pBeaH_t4n90 
 
+When approaching this controller design. I wanted to have a new way of controlling. Where the game normally is controlled with a dPad, I wanted to use Gyro to
+control the duck. Tilt forwards to fly up. Tilt left to fly left. Tilt right to fly right. Tilt down to fly downwards. There are also two buttons. One button is to have 
+the bird fly quickly up off the topof the screen, and once the button is released the bird will come down. This allows the player to move the duck to another spot in order to drop at another
+point if they so desired to. The other button is to have the ducks position randomised into two random possible locations. Neither the duck player or the hunter 
+know for sure which one they are on making it a 50/50 chance on which one it could be. 
+The entire controller is designed to look like the foot of a duck. I feel ass though that is the simplest way to do it.  
+
+
